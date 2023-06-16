@@ -13,6 +13,10 @@ for (x in cars$Make){
     }
 }
 
+# Create a data frame of cars_make
 frame <- data.frame(cars_make)
 
+# Display values in a barplot
 barplot(height = unclass(cars_make), names = names(cars_make), las = 2)
+# Display values in a data frame
+print(frame)
