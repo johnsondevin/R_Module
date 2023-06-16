@@ -1,33 +1,30 @@
 # R_Sprint_Module
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a busy student, I have found that my time is very precious and expensive. Once I use it, I don't have that time back. I have chosen to use a portion of my time to further learn and develop my programming ability by taking this class and by pushing myself to learn new languages and methods to use with familiar languages.
 
-{Provide a description of the software that you wrote to demonstrate the R language.}
+This program is a simple program that computes some statical data from the entered data.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I wrote this software to learn the R programming language and to obtain a base understanding of how data science is achieved and conducted.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To create this program, I used the R programming language along with the Visual Studio Code IDE.
 
-{Describe the programming language that you used and any libraries.}
+R is an open-source language free for public use. It is the most used language in statistical analysis and data science. Used by many cutting-edge companies, R enables people to program, analyze, and show the results of the data set.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+- [Programiz.com](https://www.programiz.com/r)
+- [W3Schools.com](https://www.w3schools.com/r/default.asp)
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+This is the link to the website, where I obtained the data set used in my program.
+- [Data.gov](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I want to enhance my ability to use this language efficiently to covey data analysis in an appealing manner.
+- In the future, I would like to add to this project some other functions to manipulate the CSV data.
+- Something that I want to improve is my ablility to comunicate with others. Communication could lead to more thoughtful solutions and more efficient code.
