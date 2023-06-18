@@ -7,7 +7,7 @@ This program is a simple program that computes some statical data from the enter
 
 I wrote this software to learn the R programming language and to obtain a base understanding of how data science is achieved and conducted.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Efk6_q44Z0I)
 
 # Development Environment
 
